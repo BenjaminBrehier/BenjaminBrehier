@@ -16,13 +16,14 @@
 <p><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></p>
 
 
-<p>💻I use a :</p>
+<p>💻 I use a :</p>
 <img src="https://img.shields.io/badge/Apple-MacBook_Air_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=black">
 
-<p>✨ You can also check my website :
-<a href="https://benjaminbrehier.fr/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/benjaminbrehier.fr.svg website:http://benjaminbrehier.fr"></a></p>
-<p>📫 How to reach me :
-<a href="https://twitter.com/Exe2Glace" target="_blank" ><img src="https://img.shields.io/twitter/follow/Exe2Glace?logo=twitter&style=for-the-badge"></a></p>
+<p>✨ You can also check my website :</p>
+<p><img src="https://img.shields.io/website-up-down-green-red/http/benjaminbrehier.fr.svg website:https://benjaminbrehier.fr"></p>
+
+<p>📫 How to reach me :</p>
+<p><img src="https://img.shields.io/twitter/follow/Exe2Glace?logo=twitter&style=for-the-badge"></p>
 <br>  
 <img src="https://github-readme-stats.vercel.app/api?username=benjaminbrehier&show_icons=true&theme=dark" alt="BenjaminBrehier" />
 <!---
