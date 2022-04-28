@@ -1,6 +1,6 @@
-👋 Hi, I’m @BenjaminBrehier
-👀 I’m interested in computer Science
-🌱 I have some programing skills in : 
+<h1>👋 Hi, I’m @BenjaminBrehier</h1>
+<p>👀 I’m interested in computer Science</p>
+<p>🌱 I have some programing skills in :</p> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -20,7 +20,7 @@ And also in : <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-
 I use a <img src="https://img.shields.io/badge/Apple-MacBook_AirM1_2020-999999?style=for-the-badge&logo=apple&logoColor=white">
 
 ✨ You can also check my website :<a href="https://benjaminbrehier.fr/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org"> </a>
-📫 How to reach me : <a href="https://twitter.com/Exe2Glace" target="_blank" ><img src="https://img.shields.io/twitter/follow/Exe2Glace?logo=twitter&style=for-the-badge" alt=
+📫 How to reach me : <a href="https://twitter.com/Exe2Glace" target="_blank" ><img src="https://img.shields.io/twitter/follow/Exe2Glace?logo=twitter&style=for-the-badge"></a>
   
   
 <img src="https://github-readme-stats.vercel.app/api?username=benjaminbrehier&show_icons=true&theme=dark" alt="BenjaminBrehier" />
