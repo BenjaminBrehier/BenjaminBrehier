@@ -22,8 +22,8 @@
 <p>📫 How to reach me :</p>
 <p><a href="https://twitter.com/Exe2Glace" target="_blank"><img src="https://img.shields.io/twitter/follow/Exe2Glace?logo=twitter&style=for-the-badge"></a> <a href="https://www.linkedin.com/in/benjamin-brehier-cardoso-323a1b204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></p></a>
 <br>  
-<img src="https://github-readme-stats.vercel.app/api?username=benjaminbrehier&show_icons=true&theme=dark" alt="BenjaminBrehier" />
-<!---
+<!--- <img src="https://github-readme-stats.vercel.app/api?username=benjaminbrehier&show_icons=true&theme=dark" alt="BenjaminBrehier" />
+
 BenjaminBrehier/BenjaminBrehier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
