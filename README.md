@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Apple-MacBook_Air_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=black">
 
 <p>✨ You can also check my website :</p>
-<a href="https://benjaminbrehier.fr" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/benjaminbrehier.fr"></a>
+<a href="https://benjaminbrehier.fr" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/https/benjaminbrehier.fr"></a>
 
 <p>📫 How to reach me :</p>
 <p><a href="https://twitter.com/Exe2Glace" target="_blank"><img src="https://img.shields.io/twitter/follow/Exe2Glace?logo=twitter&style=for-the-badge"></a> <a href="https://www.linkedin.com/in/benjamin-brehier-cardoso-323a1b204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></p></a>
